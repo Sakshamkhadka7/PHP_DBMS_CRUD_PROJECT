@@ -29,12 +29,22 @@ This project allows users to **add, edit, and delete notes** with a clean and an
 
 :heavy_check_mark:**Database Driven**
   - All notes are stored in a MySQL database (`notes`).
-
+ ## Screeshot of UserInterface
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD1.png)
+
+## Screenshot of inserting operation
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD2.png)
+
+## Screenshot of editing data of DBMS
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD3.png)
+
+## Screenshot of Deleting data from DBMS
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD4.png)
+
+## Screenshot of DBMS in xampp Server
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD6.png)
+
+## Screenshot of responsive Web App across all devices
 ![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD8.png)
 
 
