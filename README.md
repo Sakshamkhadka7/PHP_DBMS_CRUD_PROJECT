@@ -29,3 +29,13 @@ This project allows users to **add, edit, and delete notes** with a clean and an
 
 :heavy_check_mark:**Database Driven**
   - All notes are stored in a MySQL database (`notes`).
+
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD1.png)
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD2.png)
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD3.png)
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD4.png)
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD6.png)
+![image alt](https://github.com/Sakshamkhadka7/PHP_DBMS_CRUD_PROJECT/blob/937105e8808d118a052f4067f6d01467cb1fed5b/CRUD8.png)
+
+
+
