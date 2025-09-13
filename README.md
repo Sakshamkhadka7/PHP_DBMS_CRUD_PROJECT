@@ -1,5 +1,5 @@
-# PHP PROJECT USING XAMPP DBMS 
-## PROJECT NAME: CRUD(Create,Read,Update,Delete) YouNotes APP
+# :movie_camera: PHP PROJECT USING XAMPP DBMS 
+## :floppy_disk: PROJECT NAME: CRUD(Create,Read,Update,Delete) YouNotes APP
 
 ##  Welcome to **YoNotes App**, a simple web-based note-taking application built with PHP and MySQL, designed and developed by **Saksham Khadka**.  
 
@@ -7,7 +7,7 @@ This project allows users to **add, edit, and delete notes** with a clean and an
 
 ## 🎨 Features
 
-**CRUD Functionality**
+ **CRUD Functionality** :electric_plug:
   - **Create**: Add new notes.
   - **Read**: View notes in a dynamic table.
   - **Update**: Edit existing notes via a modal popup.
