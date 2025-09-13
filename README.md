@@ -8,7 +8,7 @@ This project allows users to **add, edit, and delete notes** with a clean and an
 ## 🎨 Features
 
  :electric_plug:**CRUD Functionality** 
-  - **Create**: Add new notes.
+  - **Create**: Add new notes in DBMS
   - **Read**: View notes in a dynamic table.
   - **Update**: Edit existing notes via a modal popup.
   - **Delete**: Remove unwanted notes with confirmation.
